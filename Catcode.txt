@@ -1,0 +1,3 @@
+cat: animal
+cat=black
+take cat in house
